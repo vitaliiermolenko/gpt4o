@@ -1,0 +1,18 @@
+body.light {
+  --background-color: #f5f5f5;
+  --text-color: #000;
+  --header-footer-background: #007bff;
+  --header-footer-text: #fff;
+  --button-background: #0067d4;
+  --button-text: #fff;
+  --button-hover-background: #0056b3;
+  --response-background: #fff;
+  --user-message-background: #e0e0e0;
+  --assistant-message-background: #d0f0c0;
+}
+  
+  body.light .chatContainer {
+    background-color: #e4e4e4;
+  }
+  
+

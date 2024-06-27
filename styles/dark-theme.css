@@ -1,0 +1,20 @@
+body.dark {
+  --background-color: #121212;
+  --text-color: #fff;
+  --header-footer-background: #333;
+  --header-footer-text: #fff;
+  --button-background: #555;
+  --button-text: #fff;
+  --button-hover-background: #777;
+  --response-background: #252525;
+  --user-message-background: #464646;
+  --assistant-message-background: #4d5848;
+}
+
+body.dark .chatContainer {
+  background-color: #252525;
+}
+
+body.dark #userInput, body.dark #responseContainer {
+  background-color: #acacac;
+}

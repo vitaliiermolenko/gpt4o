@@ -1,0 +1,11 @@
+.headermain, .headergpt35, .headergpt4 {
+    background-color: var(--header-footer-background);
+    color: var(--header-footer-text);
+    text-align: center;
+    padding: 10px 0;
+  }
+  
+  header h1, header h2 {
+    margin: 0;
+  }
+  

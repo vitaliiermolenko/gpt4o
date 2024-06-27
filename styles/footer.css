@@ -1,0 +1,11 @@
+.footermain, .footergpt35, .footergpt4 {
+    background-color: var(--header-footer-background);
+    color: var(--header-footer-text);
+    text-align: center;
+    padding: 5px 0;
+  }
+  
+  footer h1, footer h2 {
+    margin: 0;
+  }
+  

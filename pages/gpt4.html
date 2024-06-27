@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GPT-4o Dialog</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+  <header class="headergpt4">
+    <h2>GPT-4o</h2>
+  </header>
+  <main>
+    <div class="chatContainer">
+      <div class="inputSection">
+        <label for="userInput">Введи повідомлення:</label>
+        <textarea id="userInput" name="userInput" rows="1"></textarea>
+        <button id="gptButton">Run GPT</button>
+      </div>
+      <div class="responseSection">
+        <label>Відповідь:</label>
+        <div id="responseContainer"></div>
+      </div>
+    </div>
+  </main>
+  <footer class="footergpt4">
+    <button id="backButton" class="fullWidthButton"><h2>Back</h2></button>
+  </footer>
+  <script src="../scripts/theme.js"></script>
+  <script src="../scripts/script4.js"></script>
+  <script>
+    document.getElementById("backButton").addEventListener("click", () => {
+      window.location.href = "../";
+    });
+</script>
+</body>
+</html>
