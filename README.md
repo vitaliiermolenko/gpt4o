@@ -1,9 +1,9 @@
 Якщо хочете запустити застосунок з працюйочую АПІ то потрібно:
 1) Встановити (Node.js) з офіціального сайту там гайд є.
-2) 2)Створити API Key тут: ([силка](https://platform.openai.com/api-keys)). Натискай на силку, потім (Create new secret key) => Вкажи будь яке імя => натиска (Crrate secret key) => Копіюй ключ та йди в файл під назвою (.env) => У файлі замість (Your_Api_Key) встав то що скопіював.
-3) 3)Відкривай командну строку або консоль, йди у папку (gpt4o) => та запусти код командою (npm start).
-4) 4)Скопіюй силку (http://localhost:3000) та встав у свій браузер.
-5)Гарного використання)
+2) Створити API Key тут: ([силка](https://platform.openai.com/api-keys)). Натискай на силку, потім (Create new secret key) => Вкажи будь яке імя => натиска (Crrate secret key) => Копіюй ключ та йди в файл під назвою (.env) => У файлі замість (Your_Api_Key) встав то що скопіював.
+3) Відкривай командну строку або консоль, йди у папку (gpt4o) => та запусти код командою (npm start).
+4) Скопіюй силку (http://localhost:3000) та встав у свій браузер.
+5) Гарного використання)
 
 If you want to run the application with a working API, you need:
 1) Install (Node.js) from the official website, there is a guide there.
